@@ -2,7 +2,14 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
+- Data Scientist 
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Flask
 - 📫 How to reach me +97544682195
+- 
 
 <!---
 Dubaifinest/Dubaifinest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
