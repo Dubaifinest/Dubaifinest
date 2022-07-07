@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dubaifinest
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
 - Web3.0 Developer
 - Ethereum smart contracts
